@@ -1,0 +1,1 @@
+../../AVOSCloud/iOS/release-beta/AVOSCloud.framework/Versions/A/Headers/AVAmazonS3Client.h

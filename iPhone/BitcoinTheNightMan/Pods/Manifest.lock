@@ -1,0 +1,48 @@
+PODS:
+  - ASIHTTPRequest (1.8.1):
+    - ASIHTTPRequest/ASIWebPageRequest
+    - ASIHTTPRequest/CloudFiles
+    - ASIHTTPRequest/S3
+    - Reachability
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.1):
+    - Reachability
+  - ASIHTTPRequest/CloudFiles (1.8.1):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.1):
+    - Reachability
+  - AVOSCloud (140110.1531)
+  - AVOSCloudSNS (140110.1531):
+    - AVOSCloud
+  - FMDB (2.2):
+    - FMDB/standard
+  - FMDB/common (2.2)
+  - FMDB/standard (2.2):
+    - FMDB/common
+  - JSONKit (1.5pre)
+  - Reachability (3.1.1)
+  - XMLReader (0.0.2)
+
+DEPENDENCIES:
+  - ASIHTTPRequest (~> 1.8.1)
+  - AVOSCloud (from `https://download.avoscloud.com/sdk/iOS/release-beta/AVOSCloud.podspec`)
+  - AVOSCloudSNS (from `https://download.avoscloud.com/sdk/iOS/release-beta/AVOSCloudSNS.podspec`)
+  - FMDB (~> 2.1)
+  - JSONKit (~> 1.5pre)
+  - XMLReader (~> 0.0.2)
+
+EXTERNAL SOURCES:
+  AVOSCloud:
+    :podspec: https://download.avoscloud.com/sdk/iOS/release-beta/AVOSCloud.podspec
+  AVOSCloudSNS:
+    :podspec: https://download.avoscloud.com/sdk/iOS/release-beta/AVOSCloudSNS.podspec
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: 162783e0cd71bdd3ff1ceed0cd5fa9505e0116a8
+  AVOSCloud: c22538ae6c0d8d5dddd3befc256fd725948093cd
+  AVOSCloudSNS: faf22c3b3aa2ab1bd02f6a1d5583857a25f88cbd
+  FMDB: 97472cfacf0d9e445e915704fb43b4b142799c36
+  JSONKit: 409734ab3407fce90ef7eaa95d7168f38d9a6601
+  Reachability: be4883bb93f31e38266ae3365e5600a317aae735
+  XMLReader: d8a522b0362140b328bcaec7f289ff4ffffebf29
+
+COCOAPODS: 0.29.0

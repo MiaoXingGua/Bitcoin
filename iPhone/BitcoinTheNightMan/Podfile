@@ -1,0 +1,12 @@
+
+pod 'AVOSCloud', :podspec => 'https://download.avoscloud.com/sdk/iOS/release-beta/AVOSCloud.podspec'
+
+pod 'AVOSCloudSNS', :podspec => 'https://download.avoscloud.com/sdk/iOS/release-beta/AVOSCloudSNS.podspec'
+
+pod 'JSONKit', '~> 1.5pre'
+
+pod 'XMLReader', '~> 0.0.2'
+
+pod 'ASIHTTPRequest', '~> 1.8.1'
+
+pod 'FMDB', '~> 2.1'

@@ -1,0 +1,1 @@
+../../AVOSCloudSNS/iOS/release-beta/AVOSCloudSNS.framework/Versions/A/Headers/AVUser+SNS.h
