@@ -1,0 +1,11 @@
+# Usages
+
+Import "XMLWriter.h"
+## NSDictionary to Path
+BOOL isOkay = [XMLWriter XMLDataFromDictionary:dictionary toStringPath:mylocation Error:&err];
+
+## NSDictionary to XML string 
+
+NSString* string = [XMLWriter XMLStringFromDictionary:dictionary];
+
+That's all.
